@@ -7,14 +7,10 @@ A multi-page OS project demo built with **React 18 + Vite + Tailwind CSS + Frame
 ## 🚀 Quick Start
 
 ```bash
-# 1. Extract the archive
-tar -xzf file-allocation-visualizer-v2.tar.gz
-cd file-allocator
-
-# 2. Install dependencies
+# 1. Install dependencies
 npm install
 
-# 3. Run dev server
+# 2. Run dev server
 npm run dev
 ```
 
