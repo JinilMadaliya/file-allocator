@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { HardDrive, BookOpen, BarChart3, Activity, Menu, X, Cpu } from 'lucide-react'
 
 const LINKS = [
-  { to: '/',        label: 'Visualizer', icon: HardDrive,  desc: 'Simulate disk allocation' },
+  { to: '/app',     label: 'Visualizer', icon: HardDrive,  desc: 'Simulate disk allocation' },
   { to: '/theory',  label: 'Theory',     icon: BookOpen,   desc: 'Learn each method' },
   { to: '/compare', label: 'Compare',    icon: BarChart3,  desc: 'Side-by-side + quiz' },
   { to: '/seek',    label: 'Seek Time',  icon: Activity,   desc: 'Disk head simulation' },
